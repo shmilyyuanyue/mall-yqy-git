@@ -3,5 +3,23 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mall-beans" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mall-cart-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mall-cart-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mall-common-utils" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mall-interfaces" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mall-item-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mall-list-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mall-list-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mall-manage-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mall-manage-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mall-order-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mall-order-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mall-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mall-passport" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mall-payment" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mall-service-utils" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mall-usermanage" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mall-web-utils" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ware-manage" charset="UTF-8" />
   </component>
 </project>

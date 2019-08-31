@@ -2,11 +2,209 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60586951-721e-409d-9ae4-665c2fb6df80" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-cart-service/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-cart-service/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-cart-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-cart-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-cart-service/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-cart-service/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-cart-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-cart-service/src/main/java/com/shmily/mall/cart/MallCartServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-cart-service/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-cart-service/src/test/java/com/shmily/mall/cart/MallCartServiceApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-cart-web/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-cart-web/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-cart-web/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-cart-web/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-cart-web/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-cart-web/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-cart-web/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-cart-web/src/main/java/com/shmily/mall/cart/MallCartWebApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-cart-web/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-cart-web/src/test/java/com/shmily/mall/cart/MallCartWebApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-common-utils/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-common-utils/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-common-utils/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-common-utils/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-common-utils/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-common-utils/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-common-utils/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-common-utils/src/main/java/com/shmily/mall/utils/MallCommonUtilsApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-common-utils/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-common-utils/src/test/java/com/shmily/mall/utils/MallCommonUtilsApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-interfaces/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-interfaces/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-interfaces/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-interfaces/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-interfaces/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-interfaces/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-interfaces/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-interfaces/src/main/java/com/shmily/mall/interfaces/MallInterfacesApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-interfaces/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-interfaces/src/test/java/com/shmily/mall/interfaces/MallInterfacesApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-item-web/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-item-web/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-item-web/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-item-web/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-item-web/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-item-web/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-item-web/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-item-web/src/main/java/com/shmily/mall/item/MallItemWebApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-item-web/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-item-web/src/test/java/com/shmily/mall/item/MallItemWebApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-list-service/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-list-service/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-list-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-list-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-list-service/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-list-service/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-list-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-list-service/src/main/java/com/shmily/mall/list/MallListServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-list-service/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-list-service/src/test/java/com/shmily/mall/list/MallListServiceApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-list-web/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-list-web/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-list-web/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-list-web/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-list-web/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-list-web/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-list-web/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-list-web/src/main/java/com/shmily/mall/list/MallListWebApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-list-web/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-list-web/src/test/java/com/shmily/mall/list/MallListWebApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-manage-service/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-manage-service/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-manage-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-manage-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-manage-service/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-manage-service/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-manage-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-manage-service/src/main/java/com/shmily/mall/manage/MallManageServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-manage-service/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-manage-service/src/test/java/com/shmily/mall/manage/MallManageServiceApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-manage-web/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-manage-web/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-manage-web/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-manage-web/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-manage-web/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-manage-web/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-manage-web/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-manage-web/src/main/java/com/shmily/mall/manage/MallManageWebApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-manage-web/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-manage-web/src/test/java/com/shmily/mall/manage/MallManageWebApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-order-service/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-order-service/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-order-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-order-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-order-service/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-order-service/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-order-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-order-service/src/main/java/com/shmily/mall/order/MallOrderServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-order-service/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-order-service/src/test/java/com/shmily/mall/order/MallOrderServiceApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-order-web/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-order-web/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-order-web/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-order-web/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-order-web/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-order-web/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-order-web/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-order-web/src/main/java/com/shmily/mall/order/MallOrderWebApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-order-web/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-order-web/src/test/java/com/shmily/mall/order/MallOrderWebApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-parent/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-parent/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-parent/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-parent/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-parent/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-parent/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-parent/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-parent/src/main/java/com/shmily/mall/parent/MallParentApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-parent/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-parent/src/test/java/com/shmily/mall/parent/MallParentApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-passport/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-passport/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-passport/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-passport/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-passport/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-passport/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-passport/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-passport/src/main/java/com/shmily/mall/passport/MallPassportApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-passport/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-passport/src/test/java/com/shmily/mall/passport/MallPassportApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-payment/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-payment/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-payment/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-payment/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-payment/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-payment/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-payment/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-payment/src/main/java/com/shmily/mall/payment/MallPaymentApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-payment/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-payment/src/test/java/com/shmily/mall/payment/MallPaymentApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-service-utils/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-service-utils/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-service-utils/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-service-utils/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-service-utils/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-service-utils/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-service-utils/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-service-utils/src/main/java/com/shmily/mall/serviceutils/MallServiceUtilsApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-service-utils/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-service-utils/src/test/java/com/shmily/mall/serviceutils/MallServiceUtilsApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-usermanage/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-usermanage/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-usermanage/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-usermanage/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-usermanage/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-usermanage/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-usermanage/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-usermanage/src/main/java/com/shmily/mall/usermanage/MallUsermanageApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-usermanage/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-usermanage/src/test/java/com/shmily/mall/usermanage/MallUsermanageApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-web-utils/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-web-utils/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-web-utils/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-web-utils/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-web-utils/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-web-utils/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-web-utils/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-web-utils/src/main/java/com/shmily/mall/webutils/MallWebUtilsApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-web-utils/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mall-web-utils/src/test/java/com/shmily/mall/webutils/MallWebUtilsApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ware-manage/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ware-manage/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ware-manage/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ware-manage/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ware-manage/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ware-manage/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ware-manage/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ware-manage/src/main/java/com/shmily/ware/manage/WareManageApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ware-manage/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ware-manage/src/test/java/com/shmily/ware/manage/WareManageApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/mall-beans/target/" />
+    <ignored path="$PROJECT_DIR$/mall-cart-service/target/" />
+    <ignored path="$PROJECT_DIR$/mall-cart-web/target/" />
+    <ignored path="$PROJECT_DIR$/mall-common-utils/target/" />
+    <ignored path="$PROJECT_DIR$/mall-item-web/target/" />
+    <ignored path="$PROJECT_DIR$/mall-interfaces/target/" />
+    <ignored path="$PROJECT_DIR$/mall-list-service/target/" />
+    <ignored path="$PROJECT_DIR$/mall-list-web/target/" />
+    <ignored path="$PROJECT_DIR$/mall-manage-service/target/" />
+    <ignored path="$PROJECT_DIR$/mall-manage-web/target/" />
+    <ignored path="$PROJECT_DIR$/mall-order-service/target/" />
+    <ignored path="$PROJECT_DIR$/mall-order-web/target/" />
+    <ignored path="$PROJECT_DIR$/mall-parent/target/" />
+    <ignored path="$PROJECT_DIR$/mall-passport/target/" />
+    <ignored path="$PROJECT_DIR$/mall-payment/target/" />
+    <ignored path="$PROJECT_DIR$/mall-service-utils/target/" />
+    <ignored path="$PROJECT_DIR$/mall-usermanage/target/" />
+    <ignored path="$PROJECT_DIR$/mall-web-utils/target/" />
+    <ignored path="$PROJECT_DIR$/ware-manage/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,30 +226,66 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mall-beans/src/main/java/com/shmily/mall/beans/MallBeansApplication.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="190">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mall-cart-web/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mall-cart-service/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mall-beans/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="PUSH_TAGS">
-      <GitPushTagMode />
-    </option>
   </component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="3fb57bb5-3b5e-4a89-9bb0-32c48f9150e5" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/mall-cart-web/pom.xml" />
+        <option value="$PROJECT_DIR$/mall-cart-service/pom.xml" />
+      </list>
+    </option>
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -78,11 +312,6 @@
               <item name="mall-yqy-git" type="b2602c69:ProjectViewProjectNode" />
               <item name="mall-yqy-git" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="mall-yqy-git" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mall-yqy-git" type="462c0819:PsiDirectoryNode" />
-              <item name="mall-beans" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -99,6 +328,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="show.run.dashboard.notification" value="false" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -112,10 +342,136 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Spring Boot.MallBeansApplication">
     <configuration name="MallBeansApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="mall-beans" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.shmily.mall.beans.MallBeansApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MallCartServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mall-cart-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.shmily.mall.cart.MallCartServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MallCartWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mall-cart-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.shmily.mall.cart.MallCartWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MallCommonUtilsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mall-common-utils" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.shmily.mall.utils.MallCommonUtilsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MallInterfacesApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mall-interfaces" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.shmily.mall.interfaces.MallInterfacesApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MallItemWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mall-item-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.shmily.mall.item.MallItemWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MallListServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mall-list-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.shmily.mall.list.MallListServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MallListWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mall-list-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.shmily.mall.list.MallListWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MallManageServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mall-manage-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.shmily.mall.manage.MallManageServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MallManageWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mall-manage-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.shmily.mall.manage.MallManageWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MallOrderServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mall-order-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.shmily.mall.order.MallOrderServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MallOrderWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mall-order-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.shmily.mall.order.MallOrderWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MallParentApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mall-parent" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.shmily.mall.parent.MallParentApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MallPassportApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mall-passport" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.shmily.mall.passport.MallPassportApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MallPaymentApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mall-payment" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.shmily.mall.payment.MallPaymentApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MallServiceUtilsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mall-service-utils" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.shmily.mall.serviceutils.MallServiceUtilsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MallUsermanageApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mall-usermanage" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.shmily.mall.usermanage.MallUsermanageApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MallWebUtilsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mall-web-utils" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.shmily.mall.webutils.MallWebUtilsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WareManageApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ware-manage" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.shmily.ware.manage.WareManageApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -131,7 +487,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1567246188041</updated>
-      <workItem from="1567246190449" duration="4834000" />
+      <workItem from="1567246190449" duration="7767000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1567252261197</created>
@@ -140,11 +496,18 @@
       <option name="project" value="LOCAL" />
       <updated>1567252261197</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="first">
+      <created>1567279949847</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1567279949847</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4834000" />
+    <option name="totallyTimeSpent" value="7767000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -154,14 +517,14 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
-      <window_info active="true" anchor="bottom" id="Version Control" sideWeight="0.69957083" visible="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Version Control" sideWeight="0.6988555" visible="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Spring" />
       <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" sideWeight="0.3004292" side_tool="true" visible="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.30114448" side_tool="true" visible="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -214,9 +577,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="first" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/mall-yqy-git.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
@@ -227,7 +587,35 @@
     <entry file="file://$PROJECT_DIR$/mall-beans/src/main/java/com/shmily/mall/beans/MallBeansApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-cart-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-cart-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mall-beans/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
         </state>
       </provider>
     </entry>
